@@ -23,7 +23,7 @@
 
 Selçuk Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
 
-- 🏆 **ÜNİFEST 2026 Birincisi** — ART-I (75.000 ₺)
+- 🏆 **ÜNİFEST 2026 Birincisi** — ART-I
 - 🚀 **Teknofest Multi-Finalist** — 3 projede, 2 kategoride
 - 🔬 **TÜBİTAK 2209-A** araştırma projesi yürütücüsü
 - ✈️ **Lentatek Savunma Sanayii** stajyeri
@@ -42,7 +42,7 @@ Selçuk Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
 
 | | Yarışma | Proje | Sonuç |
 |:---:|:---|:---|:---:|
-| 🥇 | ÜNİFEST 2026 — Nitelikli İnsan & Güçlü Aile (MAKU) | ART-I | **1. · 75.000 ₺** |
+| 🥇 | ÜNİFEST 2026 — Nitelikli İnsan & Güçlü Aile (MAKU) | ART-I | **1.** |
 | 🏅 | Teknofest Türkiye — Psikoloji Teknolojileri | Serenity AI | **7. Türkiye** |
 | 🏅 | Teknofest Türkiye — Engelsiz Yaşam Teknolojileri | ART-I | **11. Türkiye** |
 | 🎓 | Teknofest 2026 — Savaşan İHA Avcı Drone | AYZEK Acceltra | Devam ediyor |
