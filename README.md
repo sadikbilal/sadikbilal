@@ -227,7 +227,7 @@ End-to-end mobile + web education platform with AI features. I built the React N
 ## 🤝 Community
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AYZEK%20(Selçuk%20University)-%20%26%20President-4A90D9?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AYZEK%20(Selçuk%20University)-20President-4A90D9?style=for-the-badge&logo=academia&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/SelcukChain-Board%20Member-9945FF?style=for-the-badge&logo=blockchain.com&logoColor=white"/>
   &nbsp;
