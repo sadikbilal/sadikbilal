@@ -32,7 +32,7 @@ I care deeply about projects that solve real problems for real people — not ju
 - 🔬 **TÜBİTAK-funded researcher** working on multimodal phishing detection (Qwen2-VL-7B + LoRA)
 - ✈️ **Defense industry intern** at Lentatek Aerospace, 2025
 - 💼 **Full Stack Developer** at Okulbox Technologies (Vuulpi project, ongoing)
-- 🧠 **Founder & President** of AYZEK — Selçuk University's AI & Algorithms Community
+- 🧠 **President** of AYZEK — Selçuk University's AI & Algorithms Community
 
 <br clear="right"/>
 
@@ -227,7 +227,7 @@ End-to-end mobile + web education platform with AI features. I built the React N
 ## 🤝 Community
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AYZEK%20(Selçuk%20University)-Founder%20%26%20President-4A90D9?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AYZEK%20(Selçuk%20University)-%20%26%20President-4A90D9?style=for-the-badge&logo=academia&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/SelcukChain-Board%20Member-9945FF?style=for-the-badge&logo=blockchain.com&logoColor=white"/>
   &nbsp;
