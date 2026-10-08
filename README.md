@@ -21,7 +21,7 @@
 
 ## Hey, I'm Sadık 👋
 
-I'm a 3rd-year Computer Engineering student at Selçuk University, and I spend most of my time building AI-powered applications — the kind that actually ship and compete.
+I'm a 4rd-year Computer Engineering student at Selçuk University, and I spend most of my time building AI-powered applications — the kind that actually ship and compete.
 
 My work spans a lot of ground: I've built a speech therapy app for toddlers with 3D mouth models and real-time voice analysis, fine-tuned multimodal LLMs for phishing detection, architected an autonomous FPV drone that hunts targets under GPS jamming, and developed a zero-knowledge identity protocol on Polygon. I lead AYZEK, our university's AI & algorithms community, and I work full-time as a developer at an EdTech startup while studying.
 
