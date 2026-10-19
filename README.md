@@ -25,7 +25,7 @@ My work spans a lot of ground: I've built a speech therapy app for toddlers with
 - 🥈 **2nd place overall at TEKNOFEST 2026 Interceptor Drone final** (16 finalists) as team captain (105 teams applied) — one of 3 teams to complete autonomous flight, tracking and landing
 - 🏆 **1st place at ÜNİFEST 2026** (75,000 ₺) with ART-I, a speech therapy assistant for ages 2–6
 - 🚀 **4× TEKNOFEST finalist** across Interceptor Drone, Logistics Optimization, Psychology Tech and Assistive Living categories
-- 🔬 **TÜBİTAK-funded researcher** working on multimodal phishing detection (Qwen2-VL-7B + LoRA)
+- 🔬 **Research project** on multimodal phishing detection (Qwen2-VL-7B + LoRA)
 - ✈️ **Defense industry intern** at Lentatek Aerospace, 2025
 - 💼 **Full Stack Developer** at Okulbox Technologies (Vuulpi project, ongoing)
 - 🧠 **Former President** of AYZEK — Selçuk University's AI & Algorithms Community (2025–2026)
@@ -48,7 +48,6 @@ My work spans a lot of ground: I've built a speech therapy app for toddlers with
 | 🥉 | **Konya Teknokent** — Girişim Express 2025 | ART-I | **3rd** |
 | 🥇 | **Konya Teknokent** — Boost the Idea | ART-I | **1st** |
 | 🎯 | **TEKNOFEST 2026** — Blockchain Technologies | NullID ZeroTrace | Passed PDR (83.33/100) |
-| 🔬 | **TÜBİTAK 2209-A** | Multimodal Phishing Detection | Funded ✓ |
 
 </div>
 
@@ -115,7 +114,7 @@ Anti-money laundering system using Graph Neural Networks. Hybrid GraphSAGE + GAT
 <td width="50%" valign="top">
 
 ### 🔬 Multimodal Phishing Detection
-`TÜBİTAK 2209-A · Funded Research`
+`Research Project`
 
 Fine-tuned Qwen2-VL-7B with LoRA on a custom Turkish mobile phishing dataset — SMS, WhatsApp, Telegram screenshots with adversarial character manipulations (ı→i, ş→s) and visual perturbations. First multimodal phishing study targeting Turkish mobile channels.
 
