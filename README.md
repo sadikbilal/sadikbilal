@@ -104,11 +104,11 @@ A decentralized zkKYC protocol where users prove attributes (age, citizenship, m
 <td width="50%" valign="top">
 
 ### 🛡️ [FraudMap — GNN Financial Crime Detection](https://github.com/sadikbilal/fraudmap-gnn-aml)
-`TÜBİTAK 2242 Research`
+`Work in progress`
 
-Anti-money laundering system using Graph Neural Networks. Hybrid GraphSAGE + GAT architecture detects smurfing, layering and structuring patterns that rule-based systems miss entirely. Real-time streaming via Apache Kafka; GNNExplainer output feeds automated SAR draft generation. MASAK-compliant.
+Anti-money-laundering detection with Graph Neural Networks. A hybrid GraphSAGE + GAT model learns from the transaction graph to flag smurfing, layering and structuring patterns. Model, trainer and Elliptic data pipeline are in place; explainability (GNNExplainer), streaming and SAR drafting are planned.
 
-`PyTorch Geometric` `Neo4j` `Apache Kafka` `FastAPI` `React`
+`PyTorch Geometric` `FastAPI` `Python`
 
 </td>
 <td width="50%" valign="top">
