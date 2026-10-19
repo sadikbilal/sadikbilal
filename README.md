@@ -41,7 +41,7 @@ My work spans a lot of ground: I've built a speech therapy app for toddlers with
 | | Competition | Project | Result |
 |:---:|:---|:---|:---:|
 | 🥈 | **TEKNOFEST 2026** — Interceptor Drone | AYZEK Acceltra | **2nd overall / 16 finalists** |
-| 🏅 | **TEKNOFEST 2026** — AI Logistics Optimization (Hepsiburada & HepsiJET) | GraphSentinel | **4th / Turkey** (500+ applicants) |
+| 🏅 | **TEKNOFEST 2026** — AI Logistics Optimization (Hepsiburada & HepsiJET) | [GraphSentinel](https://github.com/sadikbilal/hepsijet-logistics-optimization) | **4th / Turkey** (500+ applicants) |
 | 🥇 | **ÜNİFEST 2026** — Quality Life & Strong Family (MAKU) | ART-I | **1st · 75,000 ₺** |
 | 🏅 | **TEKNOFEST 2023** — Psychology Technologies | Serenity AI | **7th / Turkey** |
 | 🏅 | **TEKNOFEST 2025** — Assistive Living Technologies | ART-I | **14th / Turkey** |
@@ -59,7 +59,7 @@ My work spans a lot of ground: I've built a speech therapy app for toddlers with
 <tr>
 <td width="50%" valign="top">
 
-### 🗣️ ART-I — Speech Therapy Assistant
+### 🗣️ [ART-I — Speech Therapy Assistant](https://github.com/sadikbilal/art-i-speech-therapy)
 `🥇 ÜNİFEST 2026 · TEKNOFEST 14th · Teknokent 1st & 3rd`
 
 A mobile rehab platform for children aged 2–6 with articulation disorders. Real-time voice evaluation detects speech errors; Blender-built 3D anatomical mouth models provide visual guidance. Therapist-assisted sessions deliver personalized care without the need for a clinic visit.
@@ -91,7 +91,7 @@ An AI learning assistant for middle schoolers. Multi-agent architecture handles 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 NullID ZeroTrace — ZK Identity Protocol
+### 🔐 [NullID ZeroTrace — ZK Identity Protocol](https://github.com/sadikbilal/nullid-zk-identity)
 `Teknofest 2026 Blockchain · TEKNOSEL 2026`
 
 A decentralized zkKYC protocol where users prove attributes (age, citizenship, membership) without revealing any personal data. zk-SNARK proofs via Circom circuits; on-chain verification on Polygon in ~200k gas. No biometrics, no central storage — KVKK & GDPR compliant by design.
@@ -103,7 +103,7 @@ A decentralized zkKYC protocol where users prove attributes (age, citizenship, m
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ FraudMap — GNN Financial Crime Detection
+### 🛡️ [FraudMap — GNN Financial Crime Detection](https://github.com/sadikbilal/fraudmap-gnn-aml)
 `TÜBİTAK 2242 Research`
 
 Anti-money laundering system using Graph Neural Networks. Hybrid GraphSAGE + GAT architecture detects smurfing, layering and structuring patterns that rule-based systems miss entirely. Real-time streaming via Apache Kafka; GNNExplainer output feeds automated SAR draft generation. MASAK-compliant.
