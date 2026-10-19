@@ -9,9 +9,6 @@
   <a href="mailto:sadikbilalsan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/sadikbilalsan">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=sadikbilal&style=for-the-badge&color=6e40c9&label=Profile+Views"/>
 </div>
 
@@ -21,18 +18,17 @@
 
 ## Hey, I'm Sadık 👋
 
-I'm a 4rd-year Computer Engineering student at Selçuk University, and I spend most of my time building AI-powered applications — the kind that actually ship and compete.
+I'm a final-year Computer Engineering student at Selçuk University, and I spend most of my time building AI-powered applications — the kind that actually ship and compete.
 
-My work spans a lot of ground: I've built a speech therapy app for toddlers with 3D mouth models and real-time voice analysis, fine-tuned multimodal LLMs for phishing detection, architected an autonomous FPV drone that hunts targets under GPS jamming, and developed a zero-knowledge identity protocol on Polygon. I lead AYZEK, our university's AI & algorithms community, and I work full-time as a developer at an EdTech startup while studying.
+My work spans a lot of ground: I've built a speech therapy app for toddlers with 3D mouth models and real-time voice analysis, fine-tuned multimodal LLMs for phishing detection, architected an autonomous FPV drone that hunts targets under GPS jamming, and developed a zero-knowledge identity protocol on Polygon. I led AYZEK, our university's AI & algorithms community (2025–2026), and I work full-time as a developer at an EdTech startup while studying.
 
-I care deeply about projects that solve real problems for real people — not just technical showpieces.
-
+- 🥈 **2nd place overall at TEKNOFEST 2026 Interceptor Drone final** (16 finalists) as team captain (105 teams applied) — one of 3 teams to complete autonomous flight, tracking and landing
 - 🏆 **1st place at ÜNİFEST 2026** (75,000 ₺) with ART-I, a speech therapy assistant for ages 2–6
-- 🚀 **Teknofest multi-finalist** across Psychology Tech and Assistive Living categories
+- 🚀 **4× TEKNOFEST finalist** across Interceptor Drone, Logistics Optimization, Psychology Tech and Assistive Living categories
 - 🔬 **TÜBİTAK-funded researcher** working on multimodal phishing detection (Qwen2-VL-7B + LoRA)
 - ✈️ **Defense industry intern** at Lentatek Aerospace, 2025
 - 💼 **Full Stack Developer** at Okulbox Technologies (Vuulpi project, ongoing)
-- 🧠 **President** of AYZEK — Selçuk University's AI & Algorithms Community
+- 🧠 **Former President** of AYZEK — Selçuk University's AI & Algorithms Community (2025–2026)
 
 <br clear="right"/>
 
@@ -44,13 +40,14 @@ I care deeply about projects that solve real problems for real people — not ju
 
 | | Competition | Project | Result |
 |:---:|:---|:---|:---:|
+| 🥈 | **TEKNOFEST 2026** — Interceptor Drone | AYZEK Acceltra | **2nd overall / 16 finalists** |
+| 🏅 | **TEKNOFEST 2026** — AI Logistics Optimization (Hepsiburada & HepsiJET) | GraphSentinel | **4th / Turkey** (500+ applicants) |
 | 🥇 | **ÜNİFEST 2026** — Quality Life & Strong Family (MAKU) | ART-I | **1st · 75,000 ₺** |
-| 🏅 | **Teknofest Turkey** — Psychology Technologies | Serenity AI | **7th / Turkey** |
-| 🏅 | **Teknofest Turkey** — Assistive Living Technologies | ART-I | **11th / Turkey** |
+| 🏅 | **TEKNOFEST 2023** — Psychology Technologies | Serenity AI | **7th / Turkey** |
+| 🏅 | **TEKNOFEST 2025** — Assistive Living Technologies | ART-I | **14th / Turkey** |
 | 🥉 | **Konya Teknokent** — Girişim Express 2025 | ART-I | **3rd** |
 | 🥇 | **Konya Teknokent** — Boost the Idea | ART-I | **1st** |
-| 🎯 | **Teknofest 2026** — Combat UAV Hunter Drone | AYZEK Acceltra | In progress |
-| 🎯 | **Teknofest 2026** — Blockchain Cryptology | NullID ZeroTrace | In progress |
+| 🎯 | **TEKNOFEST 2026** — Blockchain Technologies | NullID ZeroTrace | Passed PDR (83.33/100) |
 | 🔬 | **TÜBİTAK 2209-A** | Multimodal Phishing Detection | Funded ✓ |
 
 </div>
@@ -64,7 +61,7 @@ I care deeply about projects that solve real problems for real people — not ju
 <td width="50%" valign="top">
 
 ### 🗣️ ART-I — Speech Therapy Assistant
-`🥇 ÜNİFEST 2026 · Teknofest 11th · Teknokent 1st & 3rd`
+`🥇 ÜNİFEST 2026 · TEKNOFEST 14th · Teknokent 1st & 3rd`
 
 A mobile rehab platform for children aged 2–6 with articulation disorders. Real-time voice evaluation detects speech errors; Blender-built 3D anatomical mouth models provide visual guidance. Therapist-assisted sessions deliver personalized care without the need for a clinic visit.
 
@@ -74,7 +71,7 @@ A mobile rehab platform for children aged 2–6 with articulation disorders. Rea
 <td width="50%" valign="top">
 
 ### ✈️ AYZEK Acceltra — Autonomous Hunter Drone
-`Teknofest 2026 Combat UAV · Team Captain`
+`🥈 TEKNOFEST 2026 Interceptor Drone · 2nd overall · Team Captain`
 
 Fully autonomous FPV drone that hunts and engages fixed-wing UAV targets under GNSS jamming. All compute runs ground-side: YOLOv8n detection → Kalman tracking → PID guidance → MAVLink commands. End-to-end latency: 65–70ms. Analog video pipeline with CLAHE preprocessing handles RF noise.
 
@@ -130,7 +127,7 @@ Fine-tuned Qwen2-VL-7B with LoRA on a custom Turkish mobile phishing dataset —
 <td width="50%" valign="top">
 
 ### 👁️ Serenity AI — Emotion Recognition
-`Teknofest Turkey · 7th Place · Psychology Tech`
+`TEKNOFEST 2023 · 7th Place · Psychology Tech`
 
 Real-time facial emotion and expression detection system. Optimized image processing pipeline built on DeepFace; low-latency architecture designed for applications in psychological assessment and human-computer interaction.
 
@@ -194,21 +191,6 @@ End-to-end mobile + web education platform with AI features. I built the React N
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sadikbilal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikbilal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
-<div align="center">
-  <img width="66%" src="https://github-readme-streak-stats.herokuapp.com/?user=sadikbilal&theme=tokyonight&hide_border=true"/>
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sadikbilal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6"/>
-</div>
-
----
-
 ## 💼 Experience
 
 <div align="center">
@@ -227,7 +209,7 @@ End-to-end mobile + web education platform with AI features. I built the React N
 ## 🤝 Community
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AYZEK%20(Selçuk%20University)-%20President-4A90D9?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AYZEK%20(Selçuk%20University)-%20Former%20President-4A90D9?style=for-the-badge&logo=academia&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/SelcukChain-Board%20Member-9945FF?style=for-the-badge&logo=blockchain.com&logoColor=white"/>
   &nbsp;
